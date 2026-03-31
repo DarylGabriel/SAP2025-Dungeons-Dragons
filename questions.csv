@@ -1,0 +1,9 @@
+question,option_a,option_b,option_c,option_d,correct
+What is 3+4?,6,7,8,9,B
+Computer brain?,CPU,GPU,RAM,HDD,A
+"Permanent memory?,",RAM,ROM,Cache,Register,B
+Keyword for condition?,loop,check,if,then,C
+Statement to end loop?,stop,exit,break,return,C
+Comment symbol?,?,/,#,%,C
+Stop program?,end(),stop(),pause(),exit(),D
+Skip one iteration?,jump,skip,pass,continue,D
